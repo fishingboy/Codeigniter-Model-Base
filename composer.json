@@ -1,9 +1,6 @@
 {
     "name": "fishingboy/codeigniter-model-base",
     "description": "Codeigniter Model base",
-    "require": {
-        "php": "^5.3"
-    },
     "keywords": ["codeigniter", "migration"],
     "license": "Unlicense",
     "authors": [
