@@ -1,0 +1,21 @@
+{
+    "name": "fishingboy/codeigniter-model-base",
+    "description": "Codeigniter Model base",
+    "require": {
+        "php": "^5.3"
+    },
+    "keywords": ["codeigniter", "migration"],
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "fishingboy",
+            "email": "et282523@hotmail.com"
+        }
+    ],
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "fishingboy\\ci_model_base\\": "/src"
+        }
+    }
+}
