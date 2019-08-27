@@ -1,7 +1,7 @@
 {
     "name": "fishingboy/codeigniter-model-base",
-    "description": "Codeigniter Model base",
-    "keywords": ["codeigniter", "migration"],
+    "description": "Codeigniter Model Base",
+    "keywords": ["codeigniter", "model"],
     "license": "MIT",
     "authors": [
         {
