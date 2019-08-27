@@ -5,7 +5,7 @@ namespace fishingboy\ci_model_base;
 /**
  * Model 的基礎類別
  */
-abstract class CI_Model_base extends CI_Model
+abstract class CI_Model_base extends \CI_Model
 {
     /**
      * CI 實體
