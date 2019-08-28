@@ -23,14 +23,14 @@ class Users_model extends CI_Model_base
 
 `Create()`
 ```php
-$this->your_model->create([
+$this->users_model->create([
   'title' => 'sample'
 );
 ```
 
 `Update()`
 ```php
-$this->your_model->update($id, [
+$this->users_model->update($id, [
   'title' => 'sample'
 );
 ```
