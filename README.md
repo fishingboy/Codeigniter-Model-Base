@@ -25,13 +25,13 @@ class Users_model extends CI_Model_base
 ```php
 $this->users_model->create([
   'title' => 'sample'
-);
+]);
 ```
 
 `Update()`
 ```php
 $this->users_model->update($id, [
   'title' => 'sample'
-);
+]);
 ```
 
